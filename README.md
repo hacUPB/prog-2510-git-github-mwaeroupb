@@ -1,3 +1,3 @@
 # Bitácora
-Nombre del estudiante:  
-Id.:
+Nombre del estudiante: Maria Jose Medina Alean
+Id.:549848
