@@ -13,6 +13,7 @@ Aprender a navegar entre directorios, crear nuevas carpetas y archivos desde la 
 
 #### Creación de Repositorios Locales:
 Iniciar un repositorio de Git local para el control de versiones de los archivos del proyecto.
+![imagen](Evaluacion_programacion/imagen/Creacion_de_repositorio_local)
 
 #### Creación y Sincronización con Repositorio Remoto en GitHub: 
 Crear un repositorio en GitHub, vincularlo con el repositorio local y sincronizar ambos para mantener el código actualizado.
