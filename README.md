@@ -60,10 +60,12 @@ bash
 Copiar
 python archivo.py
 
-## Tabla de contenido 
-[Conceptos aprendidos para usar una consola](docs/uso_consola.md)
-[Como crear repositorios locales](docs/repositorio_local.md)
-[Como crear repositorios remotos en GitHub](docs/repositorio_remoto.md)
+## Tabla de contenido
+|Contenido de la carpeta docs|
+|-----------------------------|
+|[Conceptos aprendidos para usar una consola](./docs/uso_consola.md)
+|[Como crear repositorios locales](./docs/repositorio_local.md)
+|[Como crear repositorios remotos en GitHub](./docs/repositorio_remoto.md)|
 ## Conclusión
 Este conjunto de pasos te permite clonar el repositorio, instalar cualquier dependencia necesaria y ejecutar el proyecto en tu entorno local.
 
