@@ -4,7 +4,7 @@
 - **`cd`**: Cambiar de directorio.
   - Ejemplo: `cd mi-carpeta` → Navega a `mi-carpeta`.
   - **`cd ..`**: Retroceder al directorio anterior.
-  ![imagen](imagen/Investigacion_de_como_crear_un_repositorio_local.png)
+  ![imagen](../imagen/Investigacion_de_como_crear_un_repositorio_local.png)
 
 ## Ver el contenido de un directorio
 - **`ls`**: Mostrar archivos y carpetas del directorio actual.
