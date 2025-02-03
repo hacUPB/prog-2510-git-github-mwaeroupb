@@ -18,6 +18,7 @@
      git push -u origin main
      ```
    - Si trabajas en una rama diferente a `main`, reemplázala con el nombre de tu rama.
+ ![imagen](../imagen/Creacion_de_repositorio_local.png)
 
 4. **Verificar la conexión remota**
    - Para confirmar que el repositorio remoto está vinculado correctamente:
