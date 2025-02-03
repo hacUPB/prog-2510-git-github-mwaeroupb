@@ -35,4 +35,5 @@
      ```bash
      git log
      ```
+ ![imagen](../imagen/como_subir_commits_locales_a_repositorio_de_gibhub.png)
 
